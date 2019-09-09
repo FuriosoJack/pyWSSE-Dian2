@@ -2,8 +2,8 @@ import hashlib
 import uuid
 from string import Template
 import base64
-from wssereqdian2.Utils import find_node
-from wssereqdian2.SingNS import *
+from wssedian2.Utils import find_node
+from wssedian2.SingNS import *
 from lxml import etree
 import datetime
 from pytz import timezone

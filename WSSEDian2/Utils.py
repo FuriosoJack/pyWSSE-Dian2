@@ -1,6 +1,6 @@
 import datetime
 import pytz
-import singreqdian.SingExceptions
+import wssedian2.SingExceptions
 
 def format_num(number):
     '''Format a number to an EET compatible format.
